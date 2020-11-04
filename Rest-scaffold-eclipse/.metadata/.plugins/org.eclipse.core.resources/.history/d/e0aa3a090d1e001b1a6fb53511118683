@@ -1,0 +1,9 @@
+package br.gov.mt.cuiaba.meuspringboot;
+
+public class GreetingController {
+
+	public GreetingController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

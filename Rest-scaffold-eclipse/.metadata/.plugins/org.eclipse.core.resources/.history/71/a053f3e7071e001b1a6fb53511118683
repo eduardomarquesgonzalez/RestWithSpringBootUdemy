@@ -1,0 +1,7 @@
+package br.gov.mt.cuiaba.meuspringboot;
+
+@RestController
+public class GreetingController {
+	private final String template = "Hello, %s!";
+
+}
