@@ -1,9 +1,0 @@
-package br.gov.mt.cuiaba.meuspringboot;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController;
-public class GreetingController {
-
-
-}
